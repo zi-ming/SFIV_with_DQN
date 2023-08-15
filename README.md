@@ -49,7 +49,7 @@
 
 ## 奖励曲线
 <center>
-<img src="images/rewardcurve.png" width="800" align=center/>
+<img src="images/rewardcurve.png" width="500" align=center/>
 </center>
 
 
